@@ -4,6 +4,7 @@ function Home(){
     return(
     <div>
         <h4>Pagina Inicial</h4>
+        <a href="/sobre">Acessar a página Sobre</a>
         <Contador />
     </div>
     )
