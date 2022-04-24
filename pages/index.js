@@ -9,9 +9,10 @@ function Home(){
 
        <Link href="/sobre">
         <a>Acessar a página Sobre</a>
-        <Contador />
-        </Link>
         
+        </Link>
+        <Contador />
+
     </div>
     )
 }

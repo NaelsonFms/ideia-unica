@@ -9,9 +9,9 @@ function Sobre(){
 
        <Link href="/">
         <a>Acessar a página Inicial</a>
-        <Contador />
         </Link>
         
+        <Contador />
     </div>
     )
 }
