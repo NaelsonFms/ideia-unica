@@ -2,13 +2,13 @@ import Link from 'next/link';
 
 import { useState } from 'react';
 
-function Home(){
+function Sobre(){
     return(
     <div>
-        <h4>Pagina Inicial</h4>
+        <h4>Sobre</h4>
 
-       <Link href="/sobre">
-        <a>Acessar a página Sobre</a>
+       <Link href="/">
+        <a>Acessar a página Inicial</a>
         <Contador />
         </Link>
         
@@ -31,4 +31,4 @@ function Contador(){
     )
 }
 
-export default Home
+export default Sobre
