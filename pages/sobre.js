@@ -4,7 +4,7 @@ function Sobre(){
     return(
     <div>
         <h4>Sobre</h4>
-        <a href="/Home">Acessar a página Sobre</a>
+        <a href="/">Acessar a página Home</a>
         <Contador />
     </div>
     )
